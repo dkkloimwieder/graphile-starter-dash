@@ -39,6 +39,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "abort-controller": "^3.0.0",
+    "ansi-regex": "^6.0.1",
     "graphql": "15.x",
     "lerna": "^4.0.0",
     "string-width": "^5.0.0"
