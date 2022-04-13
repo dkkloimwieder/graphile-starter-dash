@@ -6,58 +6,58 @@ Graphile ecosystem. Find out
 
 ## Featured
 
-- Story.ai
-- Surge
 - Chad Furman
+- Storyscript
 - Postlight
-- Openbase
+- Surge.io
 
 ## Leaders
 
-- Qwick
 - Joe Dennis
-- Robert Claypool
+- Qwick
 - domonda
 - Jack Dinker
-- nigelrmtaylor
 - DocIQ
-- Politics Rewired
-- Principia Mentis
-- Cameron Ellis
+- Robert Claypool
+- Nigel Taylor
+- Sterblue
 - HR-ON
+- Dovetail
 - Ian Stewart
+- Jacob Gillespie
+- Politics Rewired
+- Cameron Ellis
 - Luxor Labs
+- sunroominc
 - Qloo
-- Axinom
-- Taiste
-- William Baxter
-- PostHog
-- Notably
-- Nathanael Beisiegel
 
 ## Supporters
 
+- stlbucket
+- Simon Elliott
 - Sam Levin
 - Matt Bretl
-- Philipp Litzenberger
+- Daniel Einspanjer
 - Chris Watland
 - Mark
 - innovation.rocks
+- Daniel Woelfel
+- Philipp Litzenberger
+- apoland
 - James Rascoe
-- Simon Elliott
-- CJ Lazell
+- Bjørn Michelsen
+- CJ
 - Mansoor Razzaq
-- Alvin Ali Khaled
-- Andrew Poland
+- Ryan Yeske
 - Keith Layne
 - Olli Selamaa
+- qoby
 - Paul Melnikow
-- Dani Kenan
-- Benjamin Berman
-- Jimmy Liu
-- Splitgraph
-- Kadi Kraman
 - Stéphane Klein
+- Kadi Kraman
+- Dani Kenan
+- Vinzenz Weber
+- Jimmy Liu
 - OnThisSpot
-- Zymego
-- ARK
+- Splitgraph
+- Zippr.io
